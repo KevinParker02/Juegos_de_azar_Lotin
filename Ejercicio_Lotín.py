@@ -1,6 +1,6 @@
 import random
 
-#Desarrolladores Antonia Retamal, Ricardo Ojeda y Kevin Vivanco :)
+#Desarrolladores: Antonia Retamal, Ricardo Ojeda y Kevin Vivanco :)
 
 print("\n¡Bienvenido a Lotín!");
 print("\nIngrese sus 5 números de la suerte, recuerde que deben ser número entre el 1 y el 49")
